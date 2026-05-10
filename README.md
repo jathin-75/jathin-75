@@ -1,10 +1,3 @@
-## Hi there 👋
-
-<!--
-**jathin-75/jathin-75** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 # 💫 About Me:
 💻 I’m currently working on Full Stack Web Development, AI-powered applications, and DevOps projects  <br><br>🤝 I’m looking to collaborate on React.js, AI/ML, Open Source, and Backend Development projects  <br><br>🛠️ I’m looking for help with Cloud Deployment, System Design, and Scaling Applications  <br><br>🌱 I’m currently learning Advanced React, TypeScript, Docker, AWS, and Data Structures & Algorithms  <br><br>💬 Ask me about Web Development, JavaScript, React, Node.js, Python, APIs, and AI Tools  <br><br>⚡ Fun fact: I love building futuristic projects inspired by JARVIS and modern AI systems
 
@@ -23,4 +16,3 @@ Here are some ideas to get you started:
 [![](https://komarev.com/ghpvc/?username=jathin-75&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
--->
